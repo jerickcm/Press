@@ -1,0 +1,19 @@
+{
+    "name": "jerickcm/press",
+    "description": "An elegand markdown-powered blog for laravel network",
+    "license": "Pinoy Dev",
+    "autoload": {
+        "psr-4": {
+            "Jerickcm\\Press\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jerick-CM",
+            "email": "jmangaluz@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.25"
+    }
+}
